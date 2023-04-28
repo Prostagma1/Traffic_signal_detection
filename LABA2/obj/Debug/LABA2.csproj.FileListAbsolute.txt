@@ -1,0 +1,12 @@
+D:\Study\4 sem\TechnicalVision\L2\LABA2\bin\Debug\LABA2.exe.config
+D:\Study\4 sem\TechnicalVision\L2\LABA2\bin\Debug\LABA2.exe
+D:\Study\4 sem\TechnicalVision\L2\LABA2\bin\Debug\LABA2.pdb
+D:\Study\4 sem\TechnicalVision\L2\LABA2\obj\Debug\LABA2.csproj.AssemblyReference.cache
+D:\Study\4 sem\TechnicalVision\L2\LABA2\obj\Debug\LABA2.csproj.SuggestedBindingRedirects.cache
+D:\Study\4 sem\TechnicalVision\L2\LABA2\obj\Debug\LABA2.Form1.resources
+D:\Study\4 sem\TechnicalVision\L2\LABA2\obj\Debug\LABA2.Properties.Resources.resources
+D:\Study\4 sem\TechnicalVision\L2\LABA2\obj\Debug\LABA2.csproj.GenerateResource.cache
+D:\Study\4 sem\TechnicalVision\L2\LABA2\obj\Debug\LABA2.csproj.CoreCompileInputs.cache
+D:\Study\4 sem\TechnicalVision\L2\LABA2\obj\Debug\LABA2.exe
+D:\Study\4 sem\TechnicalVision\L2\LABA2\obj\Debug\LABA2.pdb
+D:\Study\4 sem\TechnicalVision\L2\LABA2\obj\Debug\LABA2.Form2.resources
